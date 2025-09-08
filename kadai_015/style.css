@@ -1,0 +1,28 @@
+/* フォントとベース設定 */
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: Arial, Meiryo, sans-serif;
+}
+
+/* 色指定 */
+.skyblue {
+  color: skyblue;
+}
+
+.pink {
+  color: pink;
+}
+/* style.css */
+
+/* ピンクのテキスト色 */
+.pink {
+  color: rgb(255, 192, 203);
+}
+
+/* スカイブルーのテキスト色 */
+.skyblue {
+  color: skyblue;
+}
