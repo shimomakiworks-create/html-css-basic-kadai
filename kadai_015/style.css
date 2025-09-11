@@ -1,21 +1,12 @@
 /* フォントとベース設定 */
 html {
   font-size: 20px;
+  text-align: center;
 }
 
 body {
   font-family: Arial, Meiryo, sans-serif;
 }
-
-/* 色指定 */
-.skyblue {
-  color: skyblue;
-}
-
-.pink {
-  color: pink;
-}
-/* style.css */
 
 /* ピンクのテキスト色 */
 .pink {
@@ -25,4 +16,14 @@ body {
 /* スカイブルーのテキスト色 */
 .skyblue {
   color: skyblue;
+}
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border-bottom: 3px solid rgb(115, 115, 114);
+}
+#basic p {
+  font-weight: bold;
 }
