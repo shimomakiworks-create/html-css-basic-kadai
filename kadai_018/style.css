@@ -24,7 +24,6 @@
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
-  position: relative;
 }
 #middle-child01 {
   position: absolute;
@@ -34,7 +33,7 @@
 #middle-child02 {
   position: absolute;
   top: 300px;
-  right: 300px;
+  left: 300px;
 }
 #middle-child03 {
   position: absolute;
